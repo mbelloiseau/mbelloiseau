@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 <p align="left" color="white">
 <img src="https://github.com/github/explore/raw/main/topics/docker/docker.png" alt="docker" width="40" height="40" title="docker" />
 <img src="https://github.com/github/explore/raw/main/topics/linux/linux.png" alt="linux" width="40" height="40" title="linux"/>
+<img src="https://avatars.githubusercontent.com/u/1854028?s=200&v=4" alt="debian" width="40" height="40" title="debian" />  
 <img src="https://cncf-branding.netlify.app/img/projects/prometheus/icon/color/prometheus-icon-color.png" alt="prometheus" width="40" height="40" title="prometheus"/>
 <img src="https://avatars.githubusercontent.com/u/7195757?s=200&v=4" alt="grafana" width="40" height="40" title="grafana" />
 <img src="https://avatars.githubusercontent.com/u/10073512?s=200&v=4" alt="restic" width="40" height="40" title="restic" />

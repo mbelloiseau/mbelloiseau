@@ -1,39 +1,22 @@
-### Hi there 👋
+## Hi folks!
 
-<!--
-**mbelloiseau/mbelloiseau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm currently working on
 
-Here are some ideas to get you started:
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I'm used to work on
 
-### 🔭 I’m currently working on ...
-
-<p align="left" color="white">
-<img src="https://github.com/github/explore/raw/main/topics/docker/docker.png" alt="docker" width="40" height="40" title="docker" />
-<img src="https://github.com/github/explore/raw/main/topics/linux/linux.png" alt="linux" width="40" height="40" title="linux"/>
-<img src="https://avatars.githubusercontent.com/u/1854028?s=200&v=4" alt="debian" width="40" height="40" title="debian" />  
-<img src="https://cncf-branding.netlify.app/img/projects/prometheus/icon/color/prometheus-icon-color.png" alt="prometheus" width="40" height="40" title="prometheus"/>
-<img src="https://avatars.githubusercontent.com/u/7195757?s=200&v=4" alt="grafana" width="40" height="40" title="grafana" />
-<img src="https://avatars.githubusercontent.com/u/10073512?s=200&v=4" alt="restic" width="40" height="40" title="restic" />
-<img src="https://avatars.githubusercontent.com/u/8115114?s=200&v=4" alt="ddev" width="40" height="40" title="ddev" />
-<img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" alt="gitlab" width="40" height="40" title="gitlab" />
-<img src="https://avatars.githubusercontent.com/u/5713248?s=200&v=4" alt="influxdata" width="40" height="40" title="influxdata" />  
-<img src="https://avatars.githubusercontent.com/u/6764390?s=200&v=4" alt="elastic" width="40" height="40" title="elastic" />  
-</p>
-
-### 🌱 I’m currently learning ...
-
-
-<p align="left" color="white">
-<img src="https://cncf-branding.netlify.app/img/projects/kubernetes/icon/color/kubernetes-icon-color.png" alt="kubernetes" width="40" height="40" title="kubernetes"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Traefik.logo.png/1200px-Traefik.logo.png" alt="traefik" width="40" height="40" title="traefik" />
-</p>
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
+![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D)![Scaleway](https://img.shields.io/badge/SCALEWAY-%234f0599.svg?style=for-the-badge&logo=scaleway&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
